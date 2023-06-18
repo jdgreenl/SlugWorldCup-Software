@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/Final_ECE118.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>126464</length>                 
+      <used>60592</used>                     
+      <free>65872</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>16384</length>                 
+      <used>5372</used>                     
+      <free>11012</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
